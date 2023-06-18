@@ -8,6 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Folder Include="BadCode\ImmutableObject\" />
     <Folder Include="Docs\" />
   </ItemGroup>
 

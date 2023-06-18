@@ -1,0 +1,6 @@
+ - Id
+ - FirstName
+ - LastName
+ - FullName
+ - FullNameReversed e.g. for Jane Doe -> Doe, Jane
+ - no methods

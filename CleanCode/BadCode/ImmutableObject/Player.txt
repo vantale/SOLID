@@ -1,0 +1,6 @@
+
+Name
+HighestScore
+Update(highestScore)
+Update(name)
+- no ther methods
